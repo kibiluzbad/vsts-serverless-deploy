@@ -1,0 +1,15 @@
+{
+  "name": "serverless-deploy",
+  "description": "Serverless deploy task",
+  "repository": {
+    "type": "git",
+    "url": "git+https://fastalelo.visualstudio.com/DevOps/_git/serverless-deploy"
+  },
+  "author": "Leonardo Cardoso",
+  "license": "MIT",
+  "bugs": {},
+  "dependencies": {
+    "vsts-task-lib": "^2.1.0"
+  },
+  "private": true
+}
